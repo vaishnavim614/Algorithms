@@ -1,4 +1,4 @@
-//Recursive insertion sort
+// Recursive insertion sort
 
 public class recur_inser_sort {
     static void recur_insert_sort(int arr[],int n){
