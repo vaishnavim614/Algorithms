@@ -1,4 +1,4 @@
-// Insertion sort
+//Insertion sort
 
 public class insertion_sort {
     static void insert(int[] arry) {
